@@ -4,7 +4,7 @@
 
 以下仅依据实际阅读的项目文件及 GitHub 许可证标识。没有运行这些第三方程序、重现论文实验或验证它们的效果声明。
 
-| 项目 | 参考的优点 | Reasoned Lens 的取舍 |
+| 项目 | 参考的优点 | logic-xray 的取舍 |
 | --- | --- | --- |
 | [Fabric](https://github.com/danielmiessler/fabric) | `analyze_claims` 将主张、证据和反驳分开，使用模块化指令 | 采用逐项检查；不强制生成正反证据，不继承真伪分数、政治标签或“中间立场”要求 |
 | [agentic-coding](https://github.com/sammcj/agentic-coding) | 批判性思维 Skill 强调准确理解、隐含前提和有用的追问 | 保留合理论证；把材料内逻辑检查与可选的外部事实核查分开 |
