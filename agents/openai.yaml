@@ -1,4 +1,4 @@
 interface:
-  display_name: "看清论证"
+  display_name: "逻辑透视镜（logic-xray）"
   short_description: "拆解社交平台正文与评论的证据和推理，提出有依据、可回答的反问"
-  default_prompt: "请用 $reasoned-lens 分析这段正文和评论，分开事实、推断与立场，并拟出有依据的澄清问题。"
+  default_prompt: "请用 $logic-xray 分析这段正文和评论，分开事实、推断与立场，并拟出有依据的澄清问题。"
