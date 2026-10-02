@@ -1,4 +1,4 @@
-# 看清论证 · Reasoned Lens
+# 逻辑透视镜（logic-xray）
 
 版本：v1.0.0。社交平台正文与评论的论证分析 Skill。
 
@@ -43,12 +43,12 @@
 
 ## 下载与安装
 
-[Codex 安装包](dist/reasoned-lens-codex-1.0.0.zip) · [WorkBuddy 安装包](dist/reasoned-lens-workbuddy-1.0.0.zip) · [校验值](dist/SHA256SUMS) · [安装说明](docs/install.md)
+[Codex 安装包](dist/logic-xray-codex-1.0.0.zip) · [WorkBuddy 安装包](dist/logic-xray-workbuddy-1.0.0.zip) · [校验值](dist/SHA256SUMS) · [安装说明](docs/install.md)
 
 安装后可以这样开始：
 
 ```text
-请使用 reasoned-lens（看清论证）分析以下正文及评论。
+请使用 logic-xray（逻辑透视镜）分析以下正文及评论。
 先准确复述主张，分开事实、推断与立场。
 指出会影响结论的推理缺口，并拟出两条有依据、可回答的反问。
 不要把尚未外部核查的内容说成事实，不要替我发布。

@@ -1,13 +1,13 @@
 ---
-name: reasoned-lens
+name: logic-xray
 description: "分析社交平台正文与评论中的主张、证据和推理，区分事实、推断与价值立场，识别会影响结论的缺口，并拟出有依据、可回答的澄清问题。适用于帖子、文章、视频转录、截图和评论串的论证审读。"
 license: MIT
 metadata:
   version: "1.0.0"
-  author: "Reasoned Lens contributors"
+  author: "logic-xray contributors"
 ---
 
-# 看清论证 · Reasoned Lens
+# 逻辑透视镜（logic-xray）
 
 帮助用户理解一段内容究竟主张什么、依据什么、哪些地方值得追问。分析的对象是论证，不是发布者的人格或群体身份。用用户的语言，保留合理部分，不为了反驳而制造漏洞。
 
