@@ -7,7 +7,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 VERSION = "1.0.0"
-NAME = "reasoned-lens"
+NAME = "logic-xray"
 
 
 def runtime_files():
@@ -31,12 +31,12 @@ def workbuddy_skill(text):
         raise ValueError("Missing skill frontmatter")
     _, header, body = text.split("---", 2)
     fields = {
-        "display_name": "看清论证",
-        "display_name_en": "Reasoned Lens",
+        "display_name": "逻辑透视镜（logic-xray）",
+        "display_name_en": "logic-xray",
         "description_zh": "拆解社交平台正文与评论的证据和推理，提出有依据、可回答的反问。",
         "description_en": "Audit arguments in social posts and comments; draft answerable, evidence-linked questions.",
         "version": VERSION,
-        "author": "Reasoned Lens contributors",
+        "author": "logic-xray contributors",
     }
     extra = "\n".join(key + ": " + json.dumps(value, ensure_ascii=False)
                       for key, value in fields.items())
